@@ -1,9 +1,11 @@
 # WIP Basic EQ Plugin
-An EQ vst plugin in rust, using imgui. 
+A basic EQ vst plugin in rust, using imgui. 
+
+This plugin is primarily a test bed for [rust-basic-audio-filters](https://github.com/DGriffin91/rust-basic-audio-filters)
 
 The plugin logs events to `~/tmp/IMGUIBaseviewEQ.log`.
 
-This plugin is in very early stages of development. Until version 1.0, parameters will change and compatibility will not be kept between updates. 
+Until version 1.0, parameters will change and compatibility will not be kept between updates. 
 
 
 ## Usage: macOS (Untested)
